@@ -102,11 +102,6 @@
           ]
         },
         "layoutOnLoadActions": [],
-        "widgetNames": [
-          "Button1",
-          "MainContainer",
-          "SwitchGroup1"
-        ],
         "validOnPageLoadActions": true,
         "id": "Page2",
         "deleted": false,
@@ -118,6 +113,5 @@
     "policies": []
   },
   "deleted": false,
-  "policies": [],
   "gitSyncId": "623458c56592030fc2992719_62384ff9e2e3e942f7cdb8bb"
 }
